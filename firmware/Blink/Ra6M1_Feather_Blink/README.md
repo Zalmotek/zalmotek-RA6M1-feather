@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4028310-3de1-4929-b8fd-11993fac2549)# Zalmotek RA6M1 Feather Blink
+# Zalmotek RA6M1 Feather Blink
 
 A simple LED blink application for the Zalmotek RA6M1 Feather development board powered by Renesas RA6M1 microcontroller.
 
