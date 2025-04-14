@@ -51,7 +51,7 @@ After importing your project, open the configuration.xml file to access the boar
   <img src="3.png" height="500">
 </p>
 
-Next, in the Pins tab, you may need to adjust this for future projects, based on what peripherals you want to enable. You can also set the pins as inputs or outputs and adjust their current drive capacity. For example, the LED is connected to P102 which is set to Output Mode. You can find its configuration in the Pin Selection menu ->Ports -> P1 -> P307.
+Next, in the Pins tab, you may need to adjust this for future projects, based on what peripherals you want to enable. You can also set the pins as inputs or outputs and adjust their current drive capacity. For example, the LED is connected to P102 which is set to Output Mode. You can find its configuration in the Pin Selection menu ->Ports -> P3 -> P307.
 
 <p align="center">
   <img src="4.png" height="500">
