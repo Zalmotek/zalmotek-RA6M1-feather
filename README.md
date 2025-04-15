@@ -6,7 +6,7 @@ Here you'll find all the resources you need to get up and running quickly.
 
 ## 🪶 What is the RA6M1 Feather SoM?
 
-The <a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6m1-120mhz-arm-cortex-m4-microcontroller-advanced-features">Renesas RA6M1</a> is designed for high-performance applications, featuring the Arm® Cortex®-M4 CPU core with a maximum operating frequency of 120 MHz. It's ideal for complex IoT devices and industrial applications requiring powerful processing capabilities and advanced peripherals.
+The <a href="https://www.renesas.com/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6m1-32-bit-microcontrollers-120mhz-optimized-entry-point-ra6-series">Renesas RA6M1</a> is designed for high-performance applications, featuring the Arm® Cortex®-M4 CPU core with a maximum operating frequency of 120 MHz. It's ideal for complex IoT devices and industrial applications requiring powerful processing capabilities and advanced peripherals.
 
 The Feather SoM incorporates the classic Feather features: GPIOs (analog and digital), I2C and SPI communication pins, UART pins, a LiPo battery power plug, and the USB programming port. The SoM also features a USB Type-C for powering the board and for USB debug upload, making it perfect for complex IoT solutions and industrial applications.
 
@@ -35,7 +35,7 @@ You will also need to install the J-Link Software pack from <a href="https://www
 
 #### Running your first project
 
-Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/zalmotek-RA6M1-feather/tree/main/firmware/Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
+Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/zalmotek-RA6M1-feather/tree/main/firmware/Blink/Ra6M1_Feather_Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
 
 ---
 Thank you for choosing the Zalmotek RA6M1 Feather SoM! 
