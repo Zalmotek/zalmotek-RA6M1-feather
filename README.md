@@ -15,6 +15,31 @@ The Feather SoM incorporates the classic Feather features: GPIOs (analog and dig
   <img src="images/Feather-RA6M1-BD.png" height="500">
 </p>
 
+## Feather Pinout
+
+The pinout for each port is as follows:
+
+
+| Pin | Function | Notes | Pin | Function | Notes |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 1 | RESET |  |  |  |  |
+| 2 | VCC (3V3) |  |  |  |  |
+| 3 | AREF |  |  |  |  |
+| 4 | GND |  |  |  |  |
+| 5 | A0 | BSP_IO_PORT_00_PIN_15 | 17 | VBAT |  |
+| 6 | A1 | BSP_IO_PORT_00_PIN_14 | 18 | EN |  |
+| 7 | A2 | BSP_IO_PORT_00_PIN_03 | 19 | BUS |  |
+| 8 | A3 | BSP_IO_PORT_00_PIN_02 | 20 | D13 | BSP_IO_PORT_03_PIN_01 |
+| 9 | A4 | BSP_IO_PORT_00_PIN_01 | 21 | D12 | BSP_IO_PORT_03_PIN_02 |
+| 10 | A5 | BSP_IO_PORT_00_PIN_00 | 22 | D11 | BSP_IO_PORT_02_PIN_01 |
+| 11 | SCK | BSP_IO_PORT_01_PIN_11  | 23 | D10 | BSP_IO_PORT_02_PIN_10 |
+| 12 | MOSI | BSP_IO_PORT_01_PIN_09 | 24 | D9 | BSP_IO_PORT_02_PIN_05 |
+| 13 | MISO| BSP_IO_PORT_01_PIN_10 | 25 | D6 | BSP_IO_PORT_02_PIN_06 |
+| 14 | RX | BSP_IO_PORT_04_PIN_10 | 26 | D5 | BSP_IO_PORT_02_PIN_07 |
+| 15 | TX | BSP_IO_PORT_04_PIN_11 | 27 | SCL | BSP_IO_PORT_01_PIN_00 |
+| 16 | D14 (SPARE) | BSP_IO_PORT_04_PIN_00 | 28 | SDA | BSP_IO_PORT_01_PIN_01 |
+
+
 ## 🐣🏁 Quick Start Guide
 
 ### 🔌 Hardware Requirements
